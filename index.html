@@ -83,7 +83,9 @@
 
             }
 
-            function loadChat(file, content) {
+        });
+
+        function loadChat(file, content) {
                 const authorName = parseAuthorName(file)
                 addAuthor(authorName);
                 const messages = parseFile(reader.result);
@@ -116,8 +118,6 @@
                 }
                 return message;
             }
-
-        })
 
         function parseAuthorName(file) {
 
