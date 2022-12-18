@@ -6,6 +6,16 @@ The aim of this project is to regenerate exported whatsapp chats into more human
 ## Here's why
 Especially with the coming of pandemic, the use of social media platforms for businesses, learning, teaching, marketing etc. has increased exponentially. Thus the use of whatsapp too. Hence people sometimes are not able to document them or keep them organized for future references.
 
+## Features
+* Seamless drag and drop ui with txt file support.
+* Export the chat as a pdf file.
+* Simple app UI with minimal user interaction.
+
+### May be implemented in the future
+* Custom chat theme support. 
+* Bulk convert with zip file upload.
+* Support media files.
+
 ## Project Walkthrough
 https://nidhashoukhath.github.io/TechSquad-Expchat-Tink-Her-Hack/
 
