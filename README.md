@@ -19,7 +19,7 @@ WhatsApp Exp-Chat is a solution for this problem. This tool could convert the ex
 * Support media files.
 
 ## Project Walkthrough
-### deployed link :
+### Deployed link :
 
 https://nidhashoukhath.github.io/TechSquad-Expchat-Tink-Her-Hack/
 
