@@ -21,6 +21,8 @@ WhatsApp Exp-Chat is a solution for this problem. This tool could convert the ex
 ## Project Walkthrough
 https://nidhashoukhath.github.io/TechSquad-Expchat-Tink-Her-Hack/
 
+[![Introduction and explanation](thumbnail.png)](https://www.loom.com/share/494c894d284947ffb904f682dc416498)
+
 ## Built with
 * Html 
 * Tailwind css
