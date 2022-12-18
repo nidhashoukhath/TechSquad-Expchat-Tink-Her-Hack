@@ -21,6 +21,11 @@ WhatsApp Exp-Chat is a solution for this problem. This tool could convert the ex
 ## Project Walkthrough
 https://nidhashoukhath.github.io/TechSquad-Expchat-Tink-Her-Hack/
 
+## Built with
+* Html 
+* Tailwind css
+* JavaScript
+
 ## Example Run
 
 ### 1. Drag and drop your files or browse files:
