@@ -1,6 +1,11 @@
 # WhatsApp Exp-Chat
 ### WhatsApp Exp-chat is a simple tool to convert an exported WhatsApp chat text file into a readable chat with a cool UI.
 
+The aim of this project is to regenerate exported whatsapp chats into more human readable format so that we can store whatsapp chats in plain text and use it along with WhatsApp Exp-chat to view the chats in the future.
+
+## Here's why
+Especially with the coming of pandemic, the use of social media platforms for businesses, learning, teaching, marketing etc. has increased exponentially. Thus the use of whatsapp too. Hence people sometimes are not able to document them or keep them organized for future references.
+
 ## Project Walkthrough
 https://nidhashoukhath.github.io/TechSquad-Expchat-Tink-Her-Hack/
 
