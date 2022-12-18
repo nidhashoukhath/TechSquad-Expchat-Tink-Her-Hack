@@ -6,6 +6,8 @@ The aim of this project is to regenerate exported whatsapp chats into more human
 ## Here's why
 Especially with the coming of pandemic, the use of social media platforms for businesses, learning, teaching, marketing etc. has increased exponentially. Thus the use of whatsapp too. Hence people sometimes are not able to document them or keep them organized for future references.
 
+WhatsApp Exp-Chat is a solution for this problem. This tool could convert the exported text file into a readable chat. This can be later modified according to the user’s need and later can be downloaded as pdf and can be used in the future.
+
 ## Features
 * Seamless drag and drop ui with txt file support.
 * Export the chat as a pdf file.
