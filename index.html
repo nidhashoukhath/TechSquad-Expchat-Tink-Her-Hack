@@ -88,7 +88,7 @@
         function loadChat(file, content) {
                 const authorName = parseAuthorName(file)
                 addAuthor(authorName);
-                const messages = parseFile(reader.result);
+                const messages = parseFile(content);
                 const authors = [];
                 for (i = 0; i < messages.length; i++) {
                     const author = messages[i]['author'];
