@@ -19,8 +19,9 @@ WhatsApp Exp-Chat is a solution for this problem. This tool could convert the ex
 * Support media files.
 
 ## Project Walkthrough
-https://nidhashoukhath.github.io/TechSquad-Expchat-Tink-Her-Hack/
+deployed link : https://nidhashoukhath.github.io/TechSquad-Expchat-Tink-Her-Hack/
 
+Introduction and explanation video :
 [![Introduction and explanation](thumbnail.png)](https://www.loom.com/share/494c894d284947ffb904f682dc416498)
 
 ## Built with
