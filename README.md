@@ -1,18 +1,8 @@
-https://nidhashoukhath.github.io/TechSquad-Expchat-Tink-Her-Hack/
 # WhatsApp Exp-Chat
 ### WhatsApp Exp-chat is a simple tool to convert an exported WhatsApp chat text file into a readable chat with a cool UI.
+
 ## Project Walkthrough
-![preview]()
-
-## How to Setup
-
-the first thing to do is to clone the repository:
-
-```sh
-$ git clone https://github.com/nidhashoukhath/TechSquad-Expchat-Tink-Her-Hack
-$ cd TechSquad-Expchat-Tink-Her-Hack
-```
-Then run the index.html using live server preview
+https://nidhashoukhath.github.io/TechSquad-Expchat-Tink-Her-Hack/
 
 ## Example Run
 
@@ -27,6 +17,16 @@ Then run the index.html using live server preview
 ### 3. User may download the pdf file using the download button at the top right of the screen.
 
 ### 4. User may refresh the page using the back-arrow icon at the top left of the screen.
+
+## How to Setup
+
+the first thing to do is to clone the repository:
+
+```sh
+$ git clone https://github.com/nidhashoukhath/TechSquad-Expchat-Tink-Her-Hack
+$ cd TechSquad-Expchat-Tink-Her-Hack
+```
+Then run the index.html using live server preview
 
 ## Team TechSquad 
 [Nidha Shoukhath](https://github.com/nidhashoukhath)
